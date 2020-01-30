@@ -1,0 +1,15 @@
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\FunctionalityTest.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\FunctionalityTest.pdb
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\TicTacToeFunctionality.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\bin\Debug\TicTacToeFunctionality.pdb
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\obj\Debug\FunctionalityTest.csprojAssemblyReference.cache
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\obj\Debug\FunctionalityTest.csproj.CopyComplete
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\obj\Debug\FunctionalityTest.dll
+C:\Users\Makyo\Desktop\TicTacToe\FunctionalityTest\obj\Debug\FunctionalityTest.pdb

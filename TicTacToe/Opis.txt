@@ -1,0 +1,20 @@
+Temat: 5x5 Kółko i krzyżyk
+
+Zawartość:
+
+1) Projekt testów jednostkowych o nazwie FunctionalityTest, który zawiera osobne testy dla każdej z publicznych metod, używanych przez aplikację
+2) Projekt aplikacji desktopowej o nazwie TicTacToe
+3) Projekt bilbioteki dla funkcjonalności aplikacji
+4) Instalator w folderze Installer
+
+Implementacja:
+1) Aplikacja desktopowa:
+- WPF od momentu stworzenia był responsywny więc własny async handling nie jest potrzebny,
+- Została zaimplementowana za pomoca MVVM (Model View ViewModel) design*, 
+- Składa się z listy 25 przycisków, które nasłuchują kliknięć myszką.
+
+2) Bilbioteka:
+- Zawiera modele dla aplikacji (Klasa BoardState)
+- Zawiera implementację metod dedykowanych aplikacji
+
+* Został przerobiony na zapotrzebowanie projektu. Modele zostały przeniesione do bilbioteki w celu późniejszej implementacji po stronie aplikacji.
